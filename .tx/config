@@ -1,6 +1,6 @@
 [main]
 host = https://www.transifex.com
-minimum_perc = 1
+minimum_perc = 0
 
 [ledgersmb.L10NLedgerSMB-i18n]
 file_filter = locale/po/<lang>.po
